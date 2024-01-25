@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maham Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codexmaham&label=Profile%20views&color=0e75b6&style=flat" alt="codexmaham" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=codexmaham&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpicsart.com%2Fi%2Fsticker-382862956016211&psig=AOvVaw0JXM7WrvFQy48E05zmhc6m&ust=1706259523034000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDDk6WW-IMDFQAAAAAdAAAAABAE)" alt="codexmaham" /> </p>
 
+<p align="left"> <a href="https://instagram.com/codexmaham" target="blank"><img src="https://img.shields.io/instagram/follow/codexmaham?logo=twitter&style=for-the-badge" alt="codexmaham" /></a> </p>
+<p align="left"> <a href="linkedin.com/in/syedamahamfatima" target="blank"><img src="https://img.shields.io/linkedin/follow/codexmaham?logo=linkedin&style=for-the-badge" alt="codexmaham" /></a> </p>
 <p align="left"> <a href="https://twitter.com/codexmaham" target="blank"><img src="https://img.shields.io/twitter/follow/codexmaham?logo=twitter&style=for-the-badge" alt="codexmaham" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
