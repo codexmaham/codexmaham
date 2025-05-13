@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maham Fatima</h1>
-<h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexmaham&label=Profile%20views&color=0e75b6&style=flat" alt="codexmaham" /> </p> 
 <p><a href="https://www.buymeacoffee.com/codexmaham"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codexmaham" /></a></p><br><br>
 
