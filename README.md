@@ -67,19 +67,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexmaham&theme=default" alt="codexmaham-streak" />
-</p>
-
----
-
 ### 💫 Developer Vibes
 
 - ✨ Building projects that look good, work fast, and scale smart  
 - 🎨 Mixing frontend finesse with backend brains  
-- 🛠️ I believe good code is like poetry—readable, elegant, and powerful  
+- 🛠️ I believe good code is like poetry readable, elegant, and powerful  
 - 🌐 On a mission to make the web a better place, one component at a time  
 - 🚀 Dreaming big, building bold, learning always
 
