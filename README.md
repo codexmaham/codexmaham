@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/syedamahamfatima" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/your-user-id" target="_blank">
+  <a href="https://stackoverflow.com/users/mahamsyed" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/codexmaham" target="_blank">
@@ -43,7 +43,7 @@
   </a>
 </p>
 
-> ℹ️ **Note:** Replace `your-user-id` in the Stack Overflow link above with your actual numeric user ID.
+
 
 ---
 
